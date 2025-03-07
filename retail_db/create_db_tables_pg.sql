@@ -13,7 +13,7 @@ CREATE TABLE departments (
 
 --
 -- Table structure for table categories
---
+--a
 
 CREATE TABLE categories (
   category_id INT NOT NULL,
